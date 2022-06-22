@@ -18,6 +18,16 @@ export default function ReviewDetails() {
 
   //displays on page 
   return (
+
+    <p>{data.data.attributes.body}
+
+    </p>
+            
+
+
+           
+
+          
     
   )
 }
